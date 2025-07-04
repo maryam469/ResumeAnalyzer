@@ -1,0 +1,16 @@
+streamlit
+pdfminer.six
+python-docx
+spacy
+fuzzywuzzy
+python-Levenshtein
+fpdf
+matplotlib
+
+
+
+
+
+
+
+
